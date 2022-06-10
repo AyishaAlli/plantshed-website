@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Full of Love",
+        "img": "stock_images/flowers/flowerone-bg",
+        "description": "A prestigiously perfect arrangement exclusive to our Luxury Collection. With the most respectable Rhodos red roses complimented with our finest foliage encased with golden orbits, this makes this one of our most exquisite bouquets in our Luxury range. The Grandeur bouquet comes custom displayed with our custom Prestige Luxury Collection bag. The bouquet is available for UK next day delivery.",
+        "price": 25
+    },
+    {
+        "id": 2,
+        "name": "Orange Surprise",
+        "img": "stock_images/flowers/flowertwo-bg",
+        "description": "A floral classic with 40 beautiful roses expertly hand tied by our talented florists. This is a fragrant arrangement that is perfect for all occasions. The colours are mixed with the size options adding 10 extra roses per upgrade.",
+        "price": 25
+    },
+    {
+        "id": 3,
+        "name": "Isn't Love Sweet",
+        "img": "stock_images/flowers/flowerfour-bg",
+        "description": "For those who adore special flowers, the Peony is an intricate beauty with a cascade of fragrant petals. These beautiful British grown flowers are popular at weddings, the peony is renowned for its elegance. This arrangement shows the true beauty of the peony and is specially arrange for your lucky recipient. The peonies will arrive in bud to they can be adored for longer.",
+        "price": 28
+    }
+]
