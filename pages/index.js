@@ -26,7 +26,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          &copy; PlantShed.com
+          &copy; PlantShed.com  
         </a>
       </footer>
     </div>

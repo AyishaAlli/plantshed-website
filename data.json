@@ -19,5 +19,26 @@
         "img": "stock_images/flowers/flowerfour-bg",
         "description": "For those who adore special flowers, the Peony is an intricate beauty with a cascade of fragrant petals. These beautiful British grown flowers are popular at weddings, the peony is renowned for its elegance. This arrangement shows the true beauty of the peony and is specially arrange for your lucky recipient. The peonies will arrive in bud to they can be adored for longer.",
         "price": 28
+    },
+    {
+        "id": 4,
+        "name": "Lilian",
+        "img": "",
+        "description": "",
+        "price": 15
+    },
+    {
+        "id": 5,
+        "name": "Junebug",
+        "img": "",
+        "description": "",
+        "price": 14
+    },
+    {
+        "id": 6,
+        "name": "Rochelle",
+        "img": "",
+        "description": "",
+        "price": 18
     }
 ]
