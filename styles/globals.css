@@ -20,7 +20,6 @@ a {
   display: flex;
   justify-content: flex-end;
   align-items:center;
-  background-color: aqua;
 }
 
 .nav-link{
@@ -37,9 +36,14 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: greenyellow;
 }
 
+.shop-now-btn{
+  border-radius:20px;
+  width: 120px;
+  color: white;
+  background-color:#053B06 ;
+}
 /* FOOTER */
 .footer {
   display: flex;

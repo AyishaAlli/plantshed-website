@@ -17,9 +17,10 @@ export default function Home() {
           <Col xs={12} md={6} className="hero-left">
                 <h1 className="logo">PlantShed</h1>
                 <p>Plants, and <span>Coffee, What more could you ask for?</span></p>
+                <button className="shop-now-btn">Shop Now</button>
           </Col>
           <Col xs={12} md={6}>
-              <Image className="plant-img" alt="plant in pot" src={openingPlantImg} height={400} width={600}></Image>
+              <Image className="plant-img" alt="plant in pot" src={openingPlantImg} height={600} width={800}></Image>
           </Col>
         </Row>
       </Container>
